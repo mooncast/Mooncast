@@ -1,0 +1,12 @@
+Refeat 06-04-2019
+
+Personer - Casper, Kasper
+
+CEO TITEL = Casper
+
+Desing - Modeler/ old ROME gladitor med space theme sketch kommer senere
+Desing - Map / første map skal være på en space station hvor midten er en stor oval cirkel med 5 indgane hvor hver ingang har sit eget personlig rum der er forskligger - sketch kommer senere
+Desing - Win/Lose / man vinder ved at dræbe alle andre på en eller anden måde (traps/syre i jorden) man taber hvis man dør.
+
+Quality check hvem der gør det bliver først næste gang
+
