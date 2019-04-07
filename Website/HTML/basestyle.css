@@ -1,7 +1,17 @@
+@font-face {
+    font-family: 'market_decoregular';
+    src: url('market_deco-webfont.woff2') format('woff2'),
+         url('market_deco-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
 body{
 	background-color: lightblue;
 }
-s
+
 h1{
 	color: navy;
 	margin-left: 20px;
@@ -12,6 +22,10 @@ h1{
 img{
 	height: 100px;
 	width: 100px;
+	position: relative;
+	top: -25px;
+	left: 0px
+	margin: auto;
 }
 
 ul {
@@ -24,6 +38,8 @@ ul {
 
 li {
 	float: left;
+	position: relative;
+	top: 20px;
 }
 
 li a {
@@ -32,13 +48,18 @@ li a {
 	text-align: center;
 	padding: 14px 16px;
 	text-decoration: none;
+	text-shadow: 1px 1px lightblue;
+	font-family: market_decoregular;
+
 }
 li a:hover {
 	background-color: #111;
 	color: white;
 
 }
-li a:active {
-	color: white;
-	background-color: yellow;
+li a:active{
+  background: #29abe2;
+  border-radius: 5px; 
+  color: #fff;
 }
+
