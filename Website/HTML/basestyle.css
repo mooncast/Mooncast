@@ -15,22 +15,27 @@ body{
 h1{
 	color: navy;
 	margin-left: 20px;
-	position: absolute;
-	text-align: left;
+	position: relative;
+	text-align: center;
+}
+
+p{
+	position: relative;
+	text-align: center;
 }
 
 img{
 	height: 100px;
 	width: 100px;
-	position: relative;
-	top: -25px;
-	left: 0px
+	position: absolute;
+	top: -28px;
+	left: 0px;
 	margin: auto;
 }
 
 ul {
 	list-style-type: none;
-	margin: 0;
+	margin: -10px;
 	padding: 0;
 	overflow: hidden;
 	background-color: #333;
@@ -38,28 +43,19 @@ ul {
 
 li {
 	float: left;
-	position: relative;
-	top: 20px;
 }
 
 li a {
 	display: block;
 	color: white;
-	text-align: center;
 	padding: 14px 16px;
 	text-decoration: none;
 	text-shadow: 1px 1px lightblue;
 	font-family: market_decoregular;
+	position: relative;
+	left: 100px;
 
 }
 li a:hover {
 	background-color: #111;
 	color: white;
-
-}
-li a:active{
-  background: #29abe2;
-  border-radius: 5px; 
-  color: #fff;
-}
-
