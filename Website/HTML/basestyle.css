@@ -10,18 +10,25 @@
 
 body{
 	background-color: lightblue;
+	align-content: center;
+	position: relative;
 }
 
 h1{
-	color: navy;
+	color: white;
 	margin-left: 20px;
 	position: relative;
 	text-align: center;
+	top: 575px;
+	font-family: 'market_decoregular';
 }
 
 p{
 	position: relative;
 	text-align: center;
+	top: 575px;
+	color: white;
+	font-family: 'market_decoregular';
 }
 
 img{
