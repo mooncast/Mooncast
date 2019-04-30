@@ -4,7 +4,13 @@
          url('market_deco-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
-
+}
+@font-face {
+	font-family: 'Razed';
+	src: url('HBMRazedBoldpersonaluseonly.woff2') format('woff2'),
+		 url('HBMRazedBoldpersonaluseonly.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
 }
 
 
@@ -20,7 +26,7 @@ h1{
 	position: relative;
 	text-align: center;
 	top: 575px;
-	font-family: 'market_decoregular';
+	font-family: 'Razed';
 }
 
 p{
