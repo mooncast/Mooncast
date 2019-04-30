@@ -44,6 +44,7 @@ img{
 	top: -28px;
 	left: 0px;
 	margin: auto;
+	object-fit: cover;
 }
 
 ul {
@@ -52,6 +53,8 @@ ul {
 	padding: 0;
 	overflow: hidden;
 	background-color: #333;
+	position: absolute;
+	top: -11px;
 }
 
 li {
@@ -61,12 +64,11 @@ li {
 li a {
 	display: block;
 	color: white;
-	padding: 14px 16px;
+	padding: 14px 452.5px;
 	text-decoration: none;
 	text-shadow: 1px 1px lightblue;
 	font-family: market_decoregular;
-	position: relative;
-	left: 100px;
+	left: 1000px;
 
 }
 li a:hover {
