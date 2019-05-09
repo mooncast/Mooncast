@@ -74,3 +74,8 @@ li a {
 li a:hover {
 	background-color: #111;
 	color: white;
+}
+audio {
+	width: 10px;
+	height: 1px;
+}
